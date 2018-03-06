@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MisMapasMis</string>
+    <string name="tituloLugares">Lugares de Ensenada, BC</string>
+    <string name="bufadora">La Bufadora</string>
+    <string name="playahermosa">Playa Hermosa</string>
+    <string name="cicese">CICESE</string>
+    <string name="centro">Centro</string>
+    <string name="extraLatitud">latitud</string>
+    <string name="extraLongitud">longitud</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="extraLocalizacion">numLocalizacion</string>
+    <string name="extraNombreLocalizacion">nombreLocalizacion</string>
+</resources>

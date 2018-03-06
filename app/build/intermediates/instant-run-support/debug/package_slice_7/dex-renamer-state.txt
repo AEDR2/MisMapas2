@@ -1,0 +1,4 @@
+#Mon Mar 05 17:04:28 PST 2018
+base.0=/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/4.DesarrolloAppAvanzadas/MisMapas/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
